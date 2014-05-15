@@ -12,7 +12,7 @@ body {
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
-	color: rgba(3, 3, 3, 0.92);
+	color: rgba(255, 255, 255, 0.92);
 	height: 100%;
 }
 
@@ -30,13 +30,13 @@ body {
 }
 
 .footer {
-	font-size: 1.3em;;
+	font-size: 1.6em;;
 	text-align:right;
 	position: fixed;
 	right: 0;
 	bottom: 0;
 	font-family: 'Helvetica Neue','Helvetica','Arial',sans-serif;
-	font-weight: 200;
+	font-weight: 100;
 }
 
 a{
