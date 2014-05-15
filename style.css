@@ -1,15 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    height: 100%;
+}
+
 body {
 	background-image: url(resources/images/background.jpg);
+    background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
 	color: rgba(3, 3, 3, 0.92);
+    height: 100%;
 }
 
 .splash {
-	font-size: 20em;;
+	font-size: 20em;
 	text-align: center;
 	font-family: 'Alberto', sans-serif;
 	color: white;
+    letter-spacing: .15em;
+    padding-top: 80px;
 }
 
 .footer {
