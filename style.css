@@ -24,6 +24,11 @@ body {
     letter-spacing: .15em;
     padding-top: 80px;
 }
+@media screen and (max-width: 600px) {
+    .splash {
+        font-size: 10em;
+    }
+}
 
 .footer {
 	font-size: 1.3em;;
